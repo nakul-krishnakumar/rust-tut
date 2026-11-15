@@ -1,0 +1,2 @@
+1. Go through Rust `hashbrown`, Google Swiss Tables hashmap and reimplement it in Rust.
+2. Build a filehost in rust: https://www.youtube.com/watch?v=zTLCDGme7Yo
